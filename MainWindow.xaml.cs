@@ -38,7 +38,7 @@ namespace MatchGame
             if (matchesFound == 8)
             {
                 timer.Stop();
-                timeTextBlock.Text = timeTextBlock.Text + " - Шо опять?";
+                timeTextBlock.Text = timeTextBlock.Text + " - Играть снова?";
             }
         }
 
